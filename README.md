@@ -10,8 +10,6 @@ This project demonstrates the use of essential Excel formulas as part of my Data
 
 ## 📂 Files Included
 - `Excel_Formulas_Mastery_Ready.xlsx` – Fully worked example with formulas applied.
-- `screenshot1.png` – Mathematical & Text functions.
-- `screenshot2.png` – Logical & Lookup functions.
 
 ## 📷 Preview
 ![Formulas Preview](screenshot1.png)
